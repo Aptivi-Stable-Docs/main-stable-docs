@@ -1,6 +1,6 @@
 ---
-description: You found a list of stable manuals!
 icon: books
+description: You found a list of stable manuals!
 ---
 
 # Stable Manuals
@@ -14,10 +14,6 @@ Stable manuals are manuals that are written for a specific version of a library 
 You can check out the following stable manuals below:
 
 * Nitrocid KS
-  * [0.1.0 Beta 1](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/Ad5vIFTQSlbQ4N2BpB8m/)
-  * [0.1.0 Beta 2](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/RoaqpM3GSf9vXxRAagbV/)
-  * [0.1.0 Beta 3](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/kfeoFVXA0LPgBamKZDG4/)
-  * [0.1.0 RC](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/3mRuFh68DHtbpLXUGDzq/)
   * [0.1.0](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/8WTX95xf6ky54JzTCqMT/)
   * [0.1.1](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/Ad5vIFTQSlbQ4N2BpB8m/)
 * Terminaux
