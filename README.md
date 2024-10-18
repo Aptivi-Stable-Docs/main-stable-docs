@@ -5,11 +5,7 @@ description: You found a list of stable manuals!
 
 # Stable Manuals
 
-{% hint style="success" %}
-**We have managed to get back control of both electricity and internet connectivity. This means that we have sorted out the environmental issues. We are more than thrilled to return to development as of this writing.**
-
-**Again, we apologize for our bad handling of the Textify 2.4.0 release.**
-{% endhint %}
+<figure><img src=".gitbook/assets/aptivi-bg-2k.png" alt=""><figcaption></figcaption></figure>
 
 Stable manuals are manuals that are written for a specific version of a library or an application. This is intended to make such manuals accessible to users who still use old versions. This page is populated with eligible applications and libraries that are listed in the support schedule as you can see in the below page:
 
