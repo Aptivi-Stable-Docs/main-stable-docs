@@ -16,8 +16,9 @@ Stable manuals are manuals that are written for a specific version of a library 
 You can check out the following stable manuals below:
 
 * Nitrocid KS
-  * [0.1.0](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/8WTX95xf6ky54JzTCqMT/)
-  * [0.1.1](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/dBjQVxqHLo7AzH0V9tdH/)
+  * [0.0.24.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/CSgCBCfc3J15ygiqIgeT/)
+  * [0.1.0.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/8WTX95xf6ky54JzTCqMT/)
+  * [0.1.1.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/dBjQVxqHLo7AzH0V9tdH/)
 * Terminaux
   * [4.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/LICzQPcJvzuBfJRHqvLy/)
   * [5.x series](https://app.gitbook.com/o/fj052nYlsxW9IdL3bsZj/s/AwolIeCEQSaYeA2rJwE5/)
